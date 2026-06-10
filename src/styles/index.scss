@@ -1,13 +1,5 @@
-@import './utils/variables';
-@import './card';
-@import './stars';
-@import './header';
-
-* {
-  box-sizing: border-box;
-}
-
-body {
-  margin: 0;
-  font-family: $main-font;
-}
+@import 'page';
+@import 'card';
+@import 'stars';
+@import 'moyohead';
+@import 'catalog';
